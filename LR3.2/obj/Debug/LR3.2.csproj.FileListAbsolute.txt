@@ -1,0 +1,10 @@
+E:\Projects\C#\LR3\LR3.2\bin\Debug\LR3.2.exe.config
+E:\Projects\C#\LR3\LR3.2\bin\Debug\LR3.2.exe
+E:\Projects\C#\LR3\LR3.2\bin\Debug\LR3.2.pdb
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3.2.csproj.AssemblyReference.cache
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3._2.Properties.Resources.resources
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3._2.TangentForm.resources
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3.2.csproj.GenerateResource.cache
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3.2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3.2.exe
+E:\Projects\C#\LR3\LR3.2\obj\Debug\LR3.2.pdb

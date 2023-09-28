@@ -1,0 +1,11 @@
+E:\Projects\C#\LR3\LR3.6\bin\Debug\LR3.6.exe.config
+E:\Projects\C#\LR3\LR3.6\bin\Debug\LR3.6.exe
+E:\Projects\C#\LR3\LR3.6\bin\Debug\LR3.6.pdb
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3.6.csproj.AssemblyReference.cache
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3._6.Properties.Resources.resources
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3._6.ThreeFigureForm.resources
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3.6.csproj.GenerateResource.cache
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3.6.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3.6.exe
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3.6.pdb
+E:\Projects\C#\LR3\LR3.6\obj\Debug\LR3._6.FigureForm.resources
